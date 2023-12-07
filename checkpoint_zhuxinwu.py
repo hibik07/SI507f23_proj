@@ -14,7 +14,7 @@ def get_location():
     '''
 
     url="https://maps.googleapis.com/maps/api/place/textsearch/json?query="
-    my_key='AIzaSyA_NPvNiC3cLQX9IsKIOzHG63JGDTecGDw'
+    my_key='not for shown here'
 
     search_kind=input("what kind of place you want to search? ")
     search_location=input("and based on which place? (can be specific to a city/road/address)")
